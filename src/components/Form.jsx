@@ -29,7 +29,6 @@ const options = [
   {
     label: "Manufacturing",
     value: "Manufacturing",
-    
   },
   {
     label: "Construction materials",
@@ -200,8 +199,44 @@ const options = [
     value: "Engineering",
   },
   {
-    label: "Energy technology",
-    value: "Energy technology",
+    label: "Environment",
+    value: "Environment",
+  },
+  {
+    label: "Information Technology and Telecommunications",
+    value: "Information Technology and Telecommunications",
+  },
+  {
+    label: "Data processing, Web portals, E-marketing",
+    value: "Data processing, Web portals, E-marketing",
+  },
+  {
+    label: "Programming, Consultancy",
+    value: "Programming, Consultancy",
+  },
+  {
+    label: "Tourism",
+    value: "Tourism",
+  },
+  {
+    label: "Translation services",
+    value: "Translation services",
+  },
+  {
+    label: "Transport and Logistics",
+    value: "Transport and Logistics",
+  },
+  {
+    label: "Air",
+    value: "Air",
+  },
+  {
+    label: "Rail",
+    value: "Rail",
+  },
+  {
+    label: "Road",
+    value: "Road",
   },
 ];
 const useStyles = makeStyles((theme) => ({
@@ -302,7 +337,7 @@ export default function Form() {
             </select>
             <br />
             <FormControlLabel
-            name="agree"
+              name="agree"
               control={<Checkbox value="true" color="primary" />}
               label=" Agree to terms"
               onChange={handleChange}
