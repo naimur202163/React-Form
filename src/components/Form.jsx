@@ -27,21 +27,97 @@ function Copyright() {
 // Options
 const options = [
   {
-    label: "Apple",
-    value: "apple",
+    label: "Manufacturing",
+    value: "Manufacturing",
     
   },
   {
-    label: "Mango",
-    value: "mango",
+    label: "Construction materials",
+    value: "Construction materials",
   },
   {
-    label: "Banana",
-    value: "banana",
+    label: "Electronics and Optics",
+    value: "Electronics and Optics",
   },
   {
-    label: "Pineapple",
-    value: "pineapple",
+    label: "Bakery",
+    value: "Beverages",
+  },
+  {
+    label: "Meat & meat",
+    value: "Meat & meat",
+  },
+  {
+    label: "Milk and dairy products",
+    value: "Food and Beverage",
+  },
+  {
+    label: "Other",
+    value: "Other",
+  },
+  {
+    label: "Sweets",
+    value: "Sweets",
+  },
+  {
+    label: "Bathroom/sauna ",
+    value: "Bedroom",
+  },
+  {
+    label: "Children’s room ",
+    value: "Children’s room",
+  },
+  {
+    label: "Living room ",
+    value: "Living room ",
+  },
+  {
+    label: "Office",
+    value: "Office",
+  },
+  {
+    label: "Other (Furniture)",
+    value: "Other (Furniture)",
+  },
+  {
+    label: "Project furniture",
+    value: "Project furniture",
+  },
+  {
+    label: "Machinery",
+    value: "Machinery",
+  },
+  {
+    label: "Manufacture of machinery ",
+    value: "Manufacture of machinery ",
+  },
+  {
+    label: "Maritime",
+    value: "Maritime",
+  },
+  {
+    label: "Aluminium and steel workboats",
+    value: "Aluminium and steel workboats",
+  },
+  {
+    label: "Manufacture of machinery ",
+    value: "Manufacture of machinery ",
+  },
+  {
+    label: "Manufacture of machinery ",
+    value: "Manufacture of machinery ",
+  },
+  {
+    label: "Manufacture of machinery ",
+    value: "Manufacture of machinery ",
+  },
+  {
+    label: "Manufacture of machinery ",
+    value: "Manufacture of machinery ",
+  },
+  {
+    label: "Manufacture of machinery ",
+    value: "Manufacture of machinery ",
   },
 ];
 const useStyles = makeStyles((theme) => ({
