@@ -96,28 +96,112 @@ const options = [
     value: "Maritime",
   },
   {
-    label: "Aluminium and steel workboats",
-    value: "Aluminium and steel workboats",
+    label: "Forgings, Fasteners",
+    value: "Forgings, Fasteners",
   },
   {
-    label: "Manufacture of machinery ",
-    value: "Manufacture of machinery ",
+    label: "Gas, Plasma, Laser",
+    value: "Gas, Plasma, Laser",
   },
   {
-    label: "Manufacture of machinery ",
-    value: "Manufacture of machinery ",
+    label: "MIG, TIG, Aluminum welding",
+    value: "MIG, TIG, Aluminum welding",
   },
   {
-    label: "Manufacture of machinery ",
-    value: "Manufacture of machinery ",
+    label: "Plastic and Rubber",
+    value: "Plastic and Rubber",
   },
   {
-    label: "Manufacture of machinery ",
-    value: "Manufacture of machinery ",
+    label: "Packaging",
+    value: "Packaging",
   },
   {
-    label: "Manufacture of machinery ",
-    value: "Manufacture of machinery ",
+    label: "Plastic goods",
+    value: "Plastic goods",
+  },
+  {
+    label: "Plastic processing technology",
+    value: "Plastic processing technology",
+  },
+  {
+    label: "Blowing",
+    value: "Blowing",
+  },
+  {
+    label: "Moulding",
+    value: "Plastics welding and processing",
+  },
+  {
+    label: "Plastic profiles",
+    value: "Plastic profiles",
+  },
+  {
+    label: "Printing",
+    value: "Printing",
+  },
+  {
+    label: "Advertising",
+    value: "Advertising",
+  },
+  {
+    label: "Book/Periodicals printing",
+    value: "Book/Periodicals printing",
+  },
+  {
+    label: "Labelling and packaging printing",
+    value: "Labelling and packaging printing",
+  },
+  {
+    label: "Textile and Clothing",
+    value: "Textile and Clothing",
+  },
+  {
+    label: "Clothing",
+    value: "Clothing",
+  },
+  {
+    label: "Textile",
+    value: "Textile",
+  },
+  {
+    label: "Wood",
+    value: "Wood",
+  },
+  {
+    label: "Other (Wood)",
+    value: "Other (Wood)",
+  },
+  {
+    label: "Wooden houses",
+    value: "Wooden houses",
+  },
+  {
+    label: "Creative industries",
+    value: "Creative industries",
+  },
+  {
+    label: "Energy technology",
+    value: "Energy technology",
+  },
+  {
+    label: "Environment",
+    value: "Environment",
+  },
+  {
+    label: "Service",
+    value: "Service",
+  },
+  {
+    label: "Business services",
+    value: "Business services ",
+  },
+  {
+    label: "Engineering",
+    value: "Engineering",
+  },
+  {
+    label: "Energy technology",
+    value: "Energy technology",
   },
 ];
 const useStyles = makeStyles((theme) => ({
